@@ -1,3 +1,5 @@
+![](https://i.imgur.com/woEBLxs.png)
+
 # Hobbyfiguras
 Hobbyfiguras is a figure collector community, in the site you will find tutorials, guides, news, bootleg comparisons, answers, stores and the latest news.
 
