@@ -5,7 +5,7 @@ This repository is a central information hub, here you will find the links to th
 
 The forum itself has some inspirations from facepunch forums.
 
-## Información tecnica
+## Technical information
 
 ### Backend
 
